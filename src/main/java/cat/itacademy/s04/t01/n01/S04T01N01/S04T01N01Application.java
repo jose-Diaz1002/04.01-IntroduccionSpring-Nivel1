@@ -11,12 +11,3 @@ public class S04T01N01Application {
 	}
 
 }
-/*
-http://localhost:9000/HelloWorld
-http://localhost:9000/HelloWorld?nombre=???
-
-http://localhost:9000/HelloWorld2
-
-http://localhost:9000/HelloWorld2/???
- */
-
